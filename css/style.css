@@ -5,13 +5,13 @@ body {
 }
 
 h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Monserrat', sans-serif;
   font-weight:300;
   letter-spacing: 2px;
   font-size:48px;
 }
 p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Monserrat', sans-serif;
   letter-spacing: 1px;
   font-size:14px;
   color: #333333;
@@ -65,7 +65,7 @@ p {
 }
 
 .img-header{
-    height: 110px;
+    height: 120px;
     width: 100px;
 }
 
@@ -155,6 +155,13 @@ p {
 }
 
 
+
+/*----- INDEX skills -------*/
+
+.h2-skills{
+  color: black;
+  font-weight: bold;
+}
 
 
 
