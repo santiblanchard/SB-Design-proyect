@@ -148,8 +148,24 @@ p {
 
 }
 
-.index-proyectos{
-  background-color: blue;
+.index-skills{
+  background-color: rgb(92, 92, 92);
 }
 
 
+
+
+
+.index-proyectos{
+  padding: 50px;
+}
+
+
+
+
+.text-shop{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 15px;
+}
